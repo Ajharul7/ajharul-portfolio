@@ -1,0 +1,142 @@
+.first-part {
+    padding-left: 8%;
+    margin-right: 40%;
+}
+
+.img {
+    height: 360px;
+    width: 360px;
+    border-radius: 50%;
+    float: right;
+    margin-top: 6.5%;
+    margin-right: 8.9%;
+}
+.my-name {
+    font-size: 46px;
+    padding-top: 9.5%;
+}
+.my-title {
+    font-size: 33px;
+    color: rgb(101, 101, 250);
+}
+.my-para {
+    font-size: 23px;
+}
+.python-icon {
+    height: 11%;
+    width: 11%;
+    padding-left: 3%;
+    margin-left: 4%;
+}
+.javascript-icon {
+    height: 11%;
+    width: 11%;
+    padding-left: 3%;
+}
+.javascript-icon {
+    height: 11%;
+    width: 11%;
+    padding-left: 3%;
+}
+.react-icon {
+    height: 11%;
+    width: 11%;
+    padding-left: 3%;
+}
+.node-icon {
+    height: 11%;
+    width: 11%;
+    padding-left: 3%;
+}
+.html-icon {
+    height: 11%;
+    width: 11%;
+    padding-left: 3%;
+}
+.css-icon {
+    height: 11%;
+    width: 11%;
+    padding-left: 3%;
+}
+.django-icon {
+    height: 11%;
+    width: 11%;
+    padding-left: 3%; 
+}
+
+@media (max-width: 520px) {
+.first-part {
+    padding-left: 2%;
+    margin-top: 10%;
+    margin-right: 0%;
+    padding-right: 5%;
+    text-align: center;
+}
+.img {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    margin-top: 6.5%;
+    margin-left: 21%;
+    margin-bottom: 0%;
+    float: none;
+}
+.a-bit {
+    margin-top: 10%;
+}
+.my-name {
+    font-size: 25px;
+    padding-top: 0;
+    text-align: center;
+}
+.my-title {
+    font-size: 20px;
+    color: rgb(101, 101, 250);
+    text-align: center;
+}
+.my-para {
+    font-size: 15px;
+    text-align: center;
+}
+.python-icon {
+    height: 11%;
+    width: 11%;
+    padding-left: 3%;
+    margin-left: 0%;
+}
+.javascript-icon {
+    height: 11%;
+    width: 11%;
+    padding-left: 3%;
+}
+.javascript-icon {
+    height: 11%;
+    width: 11%;
+    padding-left: 3%;
+}
+.react-icon {
+    height: 11%;
+    width: 11%;
+    padding-left: 3%;
+}
+.node-icon {
+    height: 11%;
+    width: 11%;
+    padding-left: 3%;
+}
+.html-icon {
+    height: 11%;
+    width: 11%;
+    padding-left: 3%;
+}
+.css-icon {
+    height: 11%;
+    width: 11%;
+    padding-left: 3%;
+}
+.django-icon {
+    height: 11%;
+    width: 11%;
+    padding-left: 3%; 
+}
+}
