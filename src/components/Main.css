@@ -92,16 +92,13 @@
 .my-name {
     font-size: 25px;
     padding-top: 0;
-    text-align: center;
 }
 .my-title {
     font-size: 20px;
     color: rgb(101, 101, 250);
-    text-align: center;
 }
 .my-para {
     font-size: 15px;
-    text-align: center;
 }
 .python-icon {
     height: 11%;
