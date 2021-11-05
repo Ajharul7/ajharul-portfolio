@@ -5,7 +5,7 @@ import {GrNode} from "react-icons/gr";
 
 const Main = () => {
     return (<>
-    <center><img src="https://i.ibb.co/vvHGwjQ/Remini20211031212640156.jpg" className="img" /></center>
+    <div className="mob"><img src="https://i.ibb.co/vvHGwjQ/Remini20211031212640156.jpg" className="img" /></div>
     <div className="first-part">
     <h1 className="my-name"><b className="a-bit">Ajharul Haque Choudhury</b></h1>
     <br/>
