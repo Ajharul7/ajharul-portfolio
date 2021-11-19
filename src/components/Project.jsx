@@ -18,7 +18,11 @@ const Project = () => {
       paratwo =" It can describe and copy any HTML CSS JS " paratwosub="tags.It uses TTS and STT feature."
       gitlink ="#" livelink="#"
     />
-    <div className = "move-temp">
+    <Projectbox imgsrc="https://i.ibb.co/HYS6mzN/a-blog.png" title="Anonymous Blog"
+      para="A Blog Anonymous Website where user" parasub = " can post Blog anonymously."
+      paratwo =" It is created using MERN Stack " paratwosub="and stores information in cloud."
+      gitlink ="https://github.com/Ajharul7/blog-website" livelink="https://myanonymous-blog.herokuapp.com/"
+    />
     <Projectbox imgsrc="https://res.cloudinary.com/practicaldev/image/fetch/s--eIAhDDOm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/orzqipasg2192qrw0kho.png" title="GoogleAutoMeet"
       para="A simple python script which lets you join" parasub = "Google Meet Class automatically"
       paratwo =" It uses the module selenium to automate the " paratwosub="process."
