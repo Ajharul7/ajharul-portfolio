@@ -20,7 +20,7 @@ const Project = () => {
     />
     <Projectbox imgsrc="https://i.ibb.co/HYS6mzN/a-blog.png" title="Anonymous Blog"
       para="A Blog Anonymous Website where user" parasub = " can post Blog anonymously."
-      paratwo =" It is created using MERN Stack" paratwosub="."
+      paratwo =" It is created using MERN Stack and " paratwosub="stores information in cloud"
       gitlink ="https://github.com/Ajharul7/blog-website" livelink="https://myanonymous-blog.herokuapp.com/"
     />
     <Projectbox imgsrc="https://res.cloudinary.com/practicaldev/image/fetch/s--eIAhDDOm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/orzqipasg2192qrw0kho.png" title="GoogleAutoMeet"
