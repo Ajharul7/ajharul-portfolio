@@ -33,7 +33,6 @@ const Project = () => {
       paratwo =" Here Brands and Company can promote " paratwosub="their products with ease."
       gitlink ="https://github.com/Ajharul7/Django/tree/master/promotehere" livelink="http://promotehere.herokuapp.com/"
     />
-    </div>
     </>
     )
 }
