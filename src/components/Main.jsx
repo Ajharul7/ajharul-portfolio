@@ -23,6 +23,10 @@ const Main = () => {
     <SiCss3 className="css-icon" />
     <SiDjango className="django-icon"/> <br/><br/>
     </div>
+    <center>
+    <a href={`/projects`} className="protainer">Project</a>
+    <a href={`https://drive.google.com/file/d/1gMpgNq1kPQNE-f2q6hM-M7dImRF8RYJ0/view?usp=sharing`} className="retainer">Resume</a>
+    </center>
     </>)
     }
 
